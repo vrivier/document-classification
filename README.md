@@ -7,5 +7,3 @@ In this notebook, I do mainly two things :
 2 - I build code to get the most and least important words in a document according to the tf-idf weights  
 &nbsp;  
 This project has been very instructive, particularly the second part during which I learned a lot on numpy arrays and how you can index on them (with nonzero() and argsort function() ). I also learned tf-idf is especially good for text classification (or information retrieval).  
-&nbsp;  
-I hope you will find that notebook instructive and it will help you in your NLP journey!
