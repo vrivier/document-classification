@@ -1,6 +1,6 @@
 # sklearn-tfidf-sort-words
 
-Tf-idf is a renowned NLP technique for vectorizing documents. I then decided to investigate it a bit deeper to see how it works and what it can and cannot do (what kind of tasks you should use it for).  
+Tf-idf is a renowned NLP technique for vectorizing documents. I decided to investigate it a bit deeper to see how it works and what it can and cannot do (what kind of tasks it should be used for).  
 &nbsp;  
 In this notebook, I do mainly two things :  
 1 - compare a bag-of-word vectorization vs a tf-idf vectorization on a text classification task with the 20newsgroups dataset  
